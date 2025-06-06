@@ -1,6 +1,13 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
-# 💫 About Me:
-👨🏻‍💻Ingeniero de Software, apasionado por la tecnología,<br>el aprendizaje autodidacta y el desarrollo de codigo. <br>Con conocimientos en:<br>🌐 Desarrollo web .<br>📱 Software de aplicaciones.<br>💡 Electrónica.<br>💻 Hardware de computadoras.<br>---------------------------------------------------------<br>👨🏻‍💻Software Engineer, passionate about technology,<br>self-learning, and code development.<br>With knowledge in:<br>🌐 Web development.<br>📱 Application software.<br>💡 Electronics.<br>💻 Computer hardware.
+
+<h1><b>Hi , I'm Guarana! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<head>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3B0OGFxM2dqYWhvb3g3dTBudG81a3U1eG9rd204NXFwY2xhMG83dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YRMb6dd7zprS00JdGZ/giphy.gif" width="45px">&nbsp;
+## About me
+<body>
+  
+👨🏻‍💻Ingeniero de Software, apasionado por la tecnología,<br>el aprendizaje autodidacta y el desarrollo de codigo. <br>Con conocimientos en:<br>🌐 Desarrollo web .<br>📱 Software de aplicaciones.<br>💡 Electrónica.<br>💻 Hardware de computadoras.<br>---------------------------------------------------------------<br>👨🏻‍💻Software Engineer, passionate about technology,<br>self-learning, and code development.<br>With knowledge in:<br>🌐 Web development.<br>📱 Application software.<br>💡 Electronics.<br>💻 Computer hardware.
 
 
 ## 🌐 Socials:
@@ -16,8 +23,6 @@
 </picture>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Guaranahj45&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Guaranahj45&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Guaranahj45&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo

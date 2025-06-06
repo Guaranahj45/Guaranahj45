@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="portada webliner.jpg" alt="GitHub Banner" width="100%" />
 
 <h1><b>Hi , I'm Guarana! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 

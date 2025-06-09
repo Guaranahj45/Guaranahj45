@@ -16,7 +16,7 @@
 </picture>
 
 # 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/webliner.bo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Michelle-Guarana) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:enya.miaw@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/webliner.bo) [![LinkedIn](https://www.linkedin.com/in/michelle-guarana-b3a940269?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bv%2BEJiAlzRkOvJVDbU5vxoA%3D%3D)](https://linkedin.com/in/Michelle-Guarana) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:enya.miaw@gmail.com) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Guaranahj45&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
